@@ -21,4 +21,4 @@ deploy:
   provider: heroku
   api-key: 
     secure: $HEROKUKEY
-  app: app-cristaldo-devops-4linux
+  app: app-devopscr
